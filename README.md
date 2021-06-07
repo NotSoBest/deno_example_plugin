@@ -9,3 +9,6 @@
   cargo build
   deno run --unstable --allow-plugin main.js
   ```
+
+  - notice: this is an unstable feature and most likely wont be stable
+    anytime soon, if at all.
